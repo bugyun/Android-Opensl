@@ -1,0 +1,2 @@
+rootProject.name='OpenslDemo'
+include ':app'
